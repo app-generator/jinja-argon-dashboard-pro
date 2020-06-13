@@ -13,8 +13,8 @@
 
 > Used by
 
-- [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
-- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-black-pro)
+- [Flask Dashboard Argon PRO](https://appseed.us/admin-dashboards/flask-dashboard-argon-pro)
+- [Django Dashboard Argon PRO](https://appseed.us/admin-dashboards/django-dashboard-argon-pro)
 
 <br />
 
