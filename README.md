@@ -18,15 +18,15 @@
 
 <br />
 
-## UI Kit - [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro/?ref=appseed)
+## UI Kit - [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro/?AFFILIATE=128200)
 
 *Vendor Notes* - **Argon Dashboard PRO** is built with over 200 individual components, giving you the freedom of choosing and combining. 
 All components can take variations in color, that you can easily modify using Sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done. Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
 
 > Links
 
-- [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro) - product page
-- [Argon Dashboard PRO Docs](https://demos.creative-tim.com/argon-dashboard-pro/docs/getting-started/overview.html)
+- [Argon Dashboard PRO](https://www.creative-tim.com/product/argon-dashboard-pro?AFFILIATE=128200) - product page
+- [Argon Dashboard PRO Docs](https://demos.creative-tim.com/argon-dashboard-pro/docs/getting-started/overview.html?AFFILIATE=128200)
 
 <br />
 
