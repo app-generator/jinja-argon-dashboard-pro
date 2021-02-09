@@ -37,8 +37,8 @@ All components can take variations in color, that you can easily modify using Sa
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/jinja-argon-dashboard-pro.git
-$ cd jinja-argon-dashboard-pro
+$ git clone https://github.com/app-generator/priv-jinja-argon-dashboard-pro.git
+$ cd priv-jinja-argon-dashboard-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -127,8 +127,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/jinja-argon-dashboard-pro.git
-$ cd jinja-argon-dashboard-pro
+$ git clone https://github.com/app-generator/priv-jinja-argon-dashboard-pro.git
+$ cd priv-jinja-argon-dashboard-pro
 ```
 
 > Start the app in Docker
