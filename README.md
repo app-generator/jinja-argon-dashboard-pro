@@ -9,7 +9,8 @@
 
 > Links
 
-- [Jinja Argon Dashboard](https://jinja-argon-dashboard.appseed-srv1.com) - starter in action
+- [Jinja Argon Dashboard PRO](https://appseed.us/jinja-template/jinja-template-argon-pro) - product page
+- [Jinja Argon Dashboard PRO - DEMO](https://jinja-argon-dashboard-pro.appseed-srv1.com) - starter in action
 - More [Jinja Templates](https://appseed.us/jinja-template) provided by AppSeed
 
 <br />
