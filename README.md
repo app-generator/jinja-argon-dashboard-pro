@@ -7,6 +7,8 @@
 - **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
 - [Jinja Argon Dashboard PRO](https://appseed.us/jinja-template/jinja-template-argon-pro) - product page
